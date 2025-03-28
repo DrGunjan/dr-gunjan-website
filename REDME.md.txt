@@ -16,3 +16,6 @@ This is my personal website showcasing my expertise in medical content writing, 
 ---  
 ### About This Repository  
 This repository contains the HTML file for my personal website. It is designed to showcase my skills as a medical content writer with expertise in homeopathy, nutrition, and skincare.
+git add README.md
+git commit -m "Updated email and LinkedIn"
+git push origin main
