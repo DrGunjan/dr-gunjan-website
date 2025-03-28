@@ -1,0 +1,18 @@
+# Dr. Gunjan Soni - Personal Website  
+This is my personal website showcasing my expertise in medical content writing, homeopathy, nutrition, and skin care.  
+
+## 📌 Features  
+- Medical Content Writing Portfolio  
+- Contact Information  
+- SEO-Optimized Articles  
+
+## 🌍 Live Website  
+[Click here to visit](https://yourusername.github.io/dr-gunjan-website/)  
+
+## 📩 Contact Me  
+- Email: your-email@example.com  
+- LinkedIn: [Your LinkedIn Profile](#)  
+
+---  
+### About This Repository  
+This repository contains the HTML file for my personal website. It is designed to showcase my skills as a medical content writer with expertise in homeopathy, nutrition, and skincare.
